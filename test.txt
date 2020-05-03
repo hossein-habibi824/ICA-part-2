@@ -1,1 +1,2 @@
 this is first commit to Create a git repository
+it was good 
